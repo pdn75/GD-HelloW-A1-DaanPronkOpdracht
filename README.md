@@ -1,2 +1,11 @@
-# GD-HelloW-A1-DaanPronkOpdracht
- 
+# Changelogs
+
+Wereld gecreeërd
+
+Gebouwen toegevoegd
+
+lantaarnpalen tegevoegd
+
+Groot parkeergarage toevegoed
+
+Wegen toegevoegd
