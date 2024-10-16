@@ -3282,10 +3282,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7317602641358766960, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -4785798054743630679, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -4165709410263217601, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -3982742980029875802, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
     - target: {fileID: 919132149155446097, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
       propertyPath: m_Name
       value: Hypercar2_Simple
       objectReference: {fileID: 0}
+    - target: {fileID: 6003285370908953611, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3510,10 +3530,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7317602641358766960, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -4785798054743630679, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -4165709410263217601, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -3982742980029875802, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
     - target: {fileID: 919132149155446097, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
       propertyPath: m_Name
       value: Hypercar2_Simple (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6003285370908953611, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3572,10 +3612,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7317602641358766960, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -4785798054743630679, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -4165709410263217601, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
+    - target: {fileID: -3982742980029875802, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
     - target: {fileID: 919132149155446097, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
       propertyPath: m_Name
       value: Hypercar2_Simple (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6003285370908953611, guid: 00b2275d01bd93d458fed1d2b2bf0732, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9875a245ac49007498213638a307faa1, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
