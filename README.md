@@ -1,11 +1,45 @@
-# Changelogs
+# ChangeLogs
 
-Wereld gecreeërd
+## DecorationLogs
 
-Gebouwen toegevoegd
+*19-10-2024*
 
-lantaarnpalen tegevoegd
+- Wereld gecreeërd
 
-Groot parkeergarage toevegoed
+- Grass Land
 
-Wegen toegevoegd
+- Russian Gebouwen 
+
+- lantaarnpalen 
+
+- Groot parkeergarage 
+
+- Wegen
+
+*16-10-2024*
+
+- Playground
+
+- RoadBarier
+
+- WiredBarier
+
+## CarLogs
+
+*16-10-2024*
+
+- Tanks
+
+- Combat Helikopter
+
+- Buggy
+
+## CharacterLogs
+
+*16-10-2024*
+
+- CharacterController
+
+- Thirdperson Camera
+
+- Custom Character
