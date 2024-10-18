@@ -30,7 +30,7 @@
 
 - Tanks
 
-- Combat Helikopter
+- Combat Helikopter | Custom rotoren die bewegen
 
 - Buggy
 
@@ -38,8 +38,8 @@
 
 *16-10-2024*
 
-- CharacterController
+- CharacterController | Dit charater kan je bewegen met de knoppen w a s d spatie.
 
-- Thirdperson Camera
-
+- Thirdperson Camera | Je kan de camera aanpassen door je muis te bewegen.
+  
 - Custom Character
