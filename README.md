@@ -1,3 +1,6 @@
+# Documentatie #
+De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling van de stad is, Je kan in de stad zien hoe een oorlog eruit ziet midden in een stad. Hierbij kan je ook de voertuigen bekijken en zie je de veranderingen tussen geen oorlog en wel een oorlog!
+
 # ChangeLogs
 
 ## DecorationLogs
@@ -38,7 +41,7 @@
 
 *16-10-2024*
 
-- CharacterController | Dit charater kan je bewegen met de knoppen w a s d spatie.
+- CharacterController | Dit charater kan je bewegen met de knoppen w, a, s, d, spatie.
 
 - Thirdperson Camera | Je kan de camera aanpassen door je muis te bewegen.
   
