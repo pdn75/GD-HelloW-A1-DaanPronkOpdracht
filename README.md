@@ -19,6 +19,8 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 - Wegen
 
+- Intro scherm | Bij het opstarten van de game krijg je 3 seconden een intro te zien en daarna schakel je over naar het speelbaar character,word verder aan gewerkt.
+
 *16-10-2024*
 
 - Playground
@@ -41,7 +43,7 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 *16-10-2024*
 
-- CharacterController | Dit charater kan je bewegen met de knoppen w, a, s, d, spatie.
+- CharacterController | Dit character kan je bewegen met de knoppen w, a, s, d, spatie.
 
 - Thirdperson Camera | Je kan de camera aanpassen door je muis te bewegen.
   
