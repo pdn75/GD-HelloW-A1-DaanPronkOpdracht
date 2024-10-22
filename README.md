@@ -19,8 +19,6 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 - Wegen
 
-- Intro scherm | Bij het opstarten van de game krijg je 3 seconden een intro te zien en daarna schakel je over naar het speelbaar character,word verder aan gewerkt.
-
 *16-10-2024*
 
 - Playground
@@ -38,6 +36,12 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 - Combat Helikopter | Custom rotoren die bewegen
 
 - Buggy
+
+*21-10-2024
+
+- Intro scherm | Bij het opstarten van de game krijg je 3 seconden een intro te zien en daarna schakel je over naar het speelbaar character,word verder aan gewerkt.
+
+- Intro Skip | Je kan nu *spatie* klikken om de intro te skippen, als de intro klaar is met afspelen kom je ook terecht in de game.
 
 ## CharacterLogs
 
