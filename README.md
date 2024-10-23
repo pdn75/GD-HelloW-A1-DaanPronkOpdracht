@@ -27,6 +27,10 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 - WiredBarier
 
+*23-10-2024*
+
+- Map uitgebreid met meer huizen en wegen | Dit zodat npc's meer loopruimte hebben.
+
 ## CarLogs
 
 *16-10-2024*
