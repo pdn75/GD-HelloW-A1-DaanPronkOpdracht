@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 585f21c9cc919854b835ac52e99052b4, type: 3}
+  m_Name: ChangeDirectionsHole
+  m_EditorClassIdentifier: 
+  setCanAct: 0
+  resetTime: 0
+  conditions:
+  - {fileID: 11400000, guid: e9d12d093cae6b248891b997474f89a4, type: 2}

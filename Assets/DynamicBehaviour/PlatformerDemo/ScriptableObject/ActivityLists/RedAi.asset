@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83c39e7b5839db14e8c605151b3ace6a, type: 3}
+  m_Name: RedAi
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 11400000, guid: 18b21f618a849fd42b8639c50f484551, type: 2}
+  - {fileID: 11400000, guid: 54f35a1dca8b13649ac2a7b6e2d8725e, type: 2}
+  - {fileID: 11400000, guid: b533c0f60fd45e04591eee0676d3bd48, type: 2}
+  - {fileID: 11400000, guid: c90a7634281d7944aa419ebdb985e10f, type: 2}

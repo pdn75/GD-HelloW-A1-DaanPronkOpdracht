@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4397dfe477695624eb66cdbf7b385e69, type: 3}
+  m_Name: DefaultControllerConfig
+  m_EditorClassIdentifier: 
+  left: {fileID: 11400000, guid: 3f880ffeea7f2b540991938221915694, type: 2}
+  right: {fileID: 11400000, guid: 61086a824af62d849bddfce86c5f538a, type: 2}
+  button1: {fileID: 11400000, guid: 077a62bf07f142d43bf7ae28b0d62479, type: 2}
+  button2: {fileID: 11400000, guid: 99d28aae111e19844813a11eb7bbd6cf, type: 2}

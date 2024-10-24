@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ad89a43e7f5ac4ea69bb521bb29089, type: 3}
+  m_Name: wallJumpLeft
+  m_EditorClassIdentifier: 
+  resetIdle: 1
+  setCanAct: 0
+  resetTime: 0
+  conditions:
+  - {fileID: 11400000, guid: 3d118f050c541114790c27352a494a8b, type: 2}
+  - {fileID: 11400000, guid: fc90ef53391fe894cae6ad7cc1e80c87, type: 2}
+  - {fileID: 11400000, guid: 72989096e3335134685bfc31b34ca02a, type: 2}
+  - {fileID: 11400000, guid: a877f928b7b1c0e4a83aa6998c80cfbb, type: 2}
+  jumpPower: {x: 5, y: 8}
+  xDirection: 0
