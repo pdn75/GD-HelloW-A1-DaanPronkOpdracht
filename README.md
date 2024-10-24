@@ -45,9 +45,9 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 *16-10-2024*
 
-- Tanks
+- Tanks | Rijdend gemaakt.
 
-- Combat Helikopter | Custom rotoren die bewegen
+- Combat Helikopter | Custom rotoren die bewegen.
 
 - Buggy
 
@@ -59,7 +59,7 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 *16-10-2024*
 
-- CharacterController | Dit character kan je bewegen met de knoppen w, a, s, d, spatie.
+- CharacterController | Dit character kan je bewegen met de knoppen w, a, s, d en spatie.
 
 - Thirdperson Camera | Je kan de camera aanpassen door je muis te bewegen.
   
@@ -67,7 +67,7 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
   *24-11-2024*
 
-- CharacterController | script geoptimaliseerd waardoor er geen errors meer verschijnen.
+- CharacterController | script geoptimaliseerd en aangepast waardoor er geen errors meer verschijnen.
 
 ## HudLogs
 
