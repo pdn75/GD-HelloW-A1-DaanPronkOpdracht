@@ -73,4 +73,4 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 *24-10-2024*
 
-- Realtime Timer | Rechts boven staat nu een datum en timer in beeld, dit is gesynchroniseerd aan het device.
+- Realtime Timer | Rechts boven staat nu een datum en timer in beeld, dit is gesynchroniseerd aan het apparaat.
