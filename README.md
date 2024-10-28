@@ -69,8 +69,20 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 - CharacterController | script geoptimaliseerd en aangepast waardoor er geen errors meer verschijnen.
 
-## HudLogs
+## UILogs
 
 *24-10-2024*
 
 - Realtime Timer | Rechts boven staat nu een datum en timer in beeld, dit is gesynchroniseerd aan het apparaat.
+
+- Radar | Waarop je kan zien waar je bent.
+
+- FPS Counter | Hier kan je zien hoevel frames per seconde hebt.
+
+- Hud | Hier kan je zien hoeveel geld je hebt, welke baan en hoeveel je hebt gegeten en gedronken.
+
+  *28-10-2024*
+
+- Game menu | Als je op F1 klikt opent er een menu. Je kan via het game menu de Hud, FPS Counter, Radar en Datum uit en aan zetten. Je kan via dit menu ook het geluid harder en zachter zetten.
+
+- Console Logs | Als je op F8 klikt opent er een menu waarin elke aanpassing van de game zichtbaar is.
