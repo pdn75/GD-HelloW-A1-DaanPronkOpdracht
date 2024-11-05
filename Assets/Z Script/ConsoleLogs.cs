@@ -18,9 +18,6 @@ public class LogPanelManager : MonoBehaviour
         
         // Voeg de logcallback toe om logs te registreren
         Application.logMessageReceived += Log;
-
-        // Koppel de sluitknop
-        closeButton.onClick.AddListener(CloseLogPanel);
         
         // Zorg ervoor dat de cursor onzichtbaar is in het begin
         Cursor.visible = false;
