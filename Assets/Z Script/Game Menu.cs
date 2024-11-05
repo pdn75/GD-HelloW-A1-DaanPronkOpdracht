@@ -167,12 +167,14 @@ public class MenuManager : MonoBehaviour
             colorBlock.normalColor = Color.green; // Zet de kleur op groen als zichtbaar
             colorBlock.highlightedColor = Color.green; // Zet de hover kleur op groen
             colorBlock.pressedColor = Color.green; // Zet de ingedrukte kleur op groen
+            colorBlock.selectedColor = Color.green;
         }
         else
         {
             colorBlock.normalColor = Color.red; // Zet de kleur op rood als verborgen
             colorBlock.highlightedColor = Color.red; // Zet de hover kleur op rood
             colorBlock.pressedColor = Color.red; // Zet de ingedrukte kleur op rood
+            colorBlock.selectedColor = Color.red;
         }
         button.colors = colorBlock; // Pas de kleuren toe
     }
