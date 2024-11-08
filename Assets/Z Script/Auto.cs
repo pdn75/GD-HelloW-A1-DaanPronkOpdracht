@@ -6,7 +6,7 @@ public class AutoController : MonoBehaviour
     public float speed = 5f;
 
     // Draaisnelheid
-    public float turnSpeed = 200f;
+    public float turnSpeed = 5f;
 
     // Weg blijven binnen deze waardes
     public float leftLimit = -8f;
