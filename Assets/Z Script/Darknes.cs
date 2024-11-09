@@ -1,25 +1,34 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DarknessController : MonoBehaviour
+public class OpacityController : MonoBehaviour
 {
-    public RawImage darknessOverlay; // Sleep hier het RawImage-element in van de DarknessCanvas
-    public Slider darknessSlider;    // Sleep hier de slider in
+    [Header("UI Components")]
+    public Slider opacitySlider;
+    public Text opacityText;
+    public RawImage background; // Gebruik RawImage voor de achtergrond
 
     void Start()
     {
-        // Koppel de slider aan de UpdateDarkness functie
-        darknessSlider.onValueChanged.AddListener(UpdateDarkness);
+        // Stel de slider in op 0% opacity bij het starten
+        opacitySlider.minValue = 0;
+        opacitySlider.maxValue = 100;
+        opacitySlider.value = 100; // Start bij volledig zwart
+        UpdateOpacity();
 
-        // Start met volledige helderheid (geen donkerte)
-        darknessSlider.value = 0;
+        // Voeg een event listener toe om de opacity aan te passen wanneer de slider verandert
+        opacitySlider.onValueChanged.AddListener(delegate { UpdateOpacity(); });
     }
 
-    void UpdateDarkness(float value)
+    void UpdateOpacity()
     {
-        // Pas de alpha-waarde van de overlay aan om de donkerte in te stellen
-        Color overlayColor = darknessOverlay.color;
-        overlayColor.a = value; // Alpha-waarde is gebaseerd op de slider-waarde
-        darknessOverlay.color = overlayColor;
+        // Opacity in procent ophalen
+        float opacityValue = opacitySlider.value;
+        opacityText.text = $"Helderheid: {opacityValue:F0}%";
+
+        // Alpha-waarde aanpassen op basis van opacity (omgekeerd)
+        Color currentColor = background.color;
+        currentColor.a = 1 - (opacityValue / 100f); // Omgekeerde alpha berekening
+        background.color = currentColor;
     }
 }
