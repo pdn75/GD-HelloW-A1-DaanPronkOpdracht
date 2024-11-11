@@ -27,7 +27,7 @@ public class VolumeControl : MonoBehaviour
     {
         if (volumeText != null)
         {
-            volumeText.text = $"{Mathf.RoundToInt(value * 100)}%"; // Toon het volume in procenten
+            volumeText.text = $"{Mathf.RoundToInt(value * 500)}%"; // Toon het volume in procenten
         }
     }
 
