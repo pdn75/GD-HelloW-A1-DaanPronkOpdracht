@@ -43,7 +43,7 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 *11-12-2024*
 
-- Collectible objects | Er zijn nu verzamelbare objecten te vinden in de stad die je kan oppakken om een missie te halen..
+- Collectible objects | Er zijn nu verzamelbare objecten te vinden in de stad die je kan oppakken om een missie te halen.
 
 ## CarLogs
 
@@ -63,7 +63,7 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 *16-10-2024*
 
-- CharacterController | Dit character kan je bewegen met de knoppen w, a, s, d en spatie.
+- CharacterController | Dit character kan je bewegen met de knoppen **W**, **A**, **S**, **D** en **Spatie**.
 
 - Thirdperson Camera | Je kan de camera aanpassen door je muis te bewegen.
   
