@@ -95,7 +95,7 @@ De stad is speelbaar met een controller of een toetsenbord en muis. De bedoeling
 
 - Collectible Object Counter | Er staan nu 2 counters in beeld waarbij word aangegeven hoeveel objecten je hebt verzamelt per soort.
 
-#SoundLogs
+## SoundLogs
 
 *11-12-2024*
 
